@@ -34,7 +34,7 @@ A custom T-shirt store website where users can browse, search, and customize T-s
 - Contact Page
 
 ## Folder Structure
-
+```plaintext
 wooper-custom-tshirt-store/
 │
 ├── public/
